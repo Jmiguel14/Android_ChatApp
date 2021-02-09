@@ -27,7 +27,8 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 ## :camera: Screenshots
 
-![todo items shown on ionic frontend and Firestore database](./tmp/CalculatorByMJ.png)
+![first image](./tmp/ChatApp.png)
+![other image](./tmp/ChatApp2.png)
 
 ## :signal_strength: Tecnologías
 
