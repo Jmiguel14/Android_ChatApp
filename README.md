@@ -39,7 +39,7 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 ## :youtube: Video demostrativo de funcioanmiento
 
-* [IR]()
+* [IR](https://youtu.be/kBY2GcOcgps)
 
 ## :floppy_disk: Disposición
 
