@@ -41,7 +41,7 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 * [IR](https://youtu.be/kBY2GcOcgps)
 
-[![Everything Is AWESOME](./tmp/chatAppVideoP.jpg)](https://www.youtube.com/watch?v=kBY2GcOcgps)
+[![Everything Is AWESOME](./tmp/chatApp_videdoP.jpg)](https://www.youtube.com/watch?v=kBY2GcOcgps)
 
 ## :floppy_disk: Disposición
 
