@@ -37,13 +37,19 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 * [Gradle](https://gradle.org/)
 * [Firebase](https://firebase.google.com/docs)
 
+## :youtube: Video demostrativo de funcioanmiento
+
+* [IR](https://youtu.be/kBY2GcOcgps)
+
+[![Everything Is AWESOME](https://photos.app.goo.gl/d1Xjbd3sXEAVW6N46)](https://www.youtube.com/watch?v=kBY2GcOcgps)
+
 ## :floppy_disk: Disposición
 
 * Descargar APK
 
 ## 📦 APK
 
-* [Descargar](https://epnecuador-my.sharepoint.com/:u:/g/personal/miguel_jurado_epn_edu_ec/ES1OVpXJSRVGu46gSlylzBUBIBvxkRtRDUwBzvrlJfwxjA?e=ewK6U4)
+* [Descargar](https://epnecuador-my.sharepoint.com/:u:/g/personal/miguel_jurado_epn_edu_ec/EVxZ90ZPQ4dJmMnm0ryp0wwBiMm_8DR0LMqSVxR44iA88g?e=3TtGBN)
 
 ## :clap: Inspiración
 
