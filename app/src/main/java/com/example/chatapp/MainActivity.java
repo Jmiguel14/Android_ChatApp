@@ -99,8 +99,8 @@ public class MainActivity extends AppCompatActivity {
             case R.id.logout:
                 FirebaseAuth.getInstance().signOut();
                 // change this code because your app will crash
-                //startActivity(new Intent(MainActivity.this, StartActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
-                startActivity(new Intent(MainActivity.this, StartActivity.class));
+                startActivity(new Intent(getApplicationContext(), StartActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
+                //startActivity(new Intent(MainActivity.this, StartActivity.class));
                 //finish();
                 return true;
         }
