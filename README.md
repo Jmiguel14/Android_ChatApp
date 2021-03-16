@@ -37,13 +37,13 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 * [Gradle](https://gradle.org/)
 * [Firebase](https://firebase.google.com/docs)
 
-## Video explicativo del desarrollo
+## ▶️ Video explicativo del desarrollo
 
 * [IR](https://youtu.be/zCsxU5hkg3M)
 
 [![Everything Is AWESOM](./tmp/chatApp_video_Desarrollo.jpg)](https://youtu.be/zCsxU5hkg3M)
 
-## :youtube: Video demostrativo de funcioanmiento
+## ▶️ Video demostrativo de funcioanmiento
 
 * [IR](https://youtu.be/zv4eFSXESL8)
 
