@@ -59,6 +59,10 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 * Proyecto inspirado en [KOD Dev - Chat App with Firebase Android Studio Tutorials](https://www.youtube.com/playlist?list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8)
 
+## Desarrolladores
+
+* [!Integrantes](./tmp/)
+
 ## :envelope: Contacto 
 
-* Repo creado por [Miguel - 0988185518]
+* Repo creado por [Freddy Valverde, Miguel - 0988185518]
