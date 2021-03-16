@@ -61,7 +61,7 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 * Proyecto inspirado en [KOD Dev - Chat App with Firebase Android Studio Tutorials](https://www.youtube.com/playlist?list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8)
 
-## Responsabilidades de cada integrante
+## 🧑‍🧑‍💻 Responsabilidades de cada integrante
 
 ![Ver](./tmp/actividades.JPG)
 
