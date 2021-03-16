@@ -65,4 +65,4 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 ## :envelope: Contacto 
 
-* Repo creado por [Freddy Valverde, Miguel - 0988185518]
+* Proyecto desarrollado por [Freddy Valverde [GitHub](https://github.com/FreddyJR1995), Miguel - 0988185518]
