@@ -39,7 +39,7 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 ## :youtube: Video demostrativo de funcioanmiento
 
-* [IR](https://youtu.be/kBY2GcOcgps)
+* [IR](https://youtu.be/zCsxU5hkg3M)
 
 [![Everything Is AWESOME](./tmp/chatApp_videdoP.jpg)](https://www.youtube.com/watch?v=kBY2GcOcgps)
 
