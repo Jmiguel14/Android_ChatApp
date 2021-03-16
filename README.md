@@ -61,7 +61,7 @@ App creada usando [Android studio](https://developer.android.com/) y [firebase](
 
 ## Responsabilidades de cada integrante
 
-* [!Integrantes](./tmp/actividades.JPG)
+* [![Ver](./tmp/actividades.JPG)]
 
 ## :envelope: Contacto 
 
